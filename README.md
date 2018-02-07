@@ -3,17 +3,21 @@
 Here we will guide you through a journey of our school's EAST projects.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### A few of Midland's EAST Projects
+
+
 
 
 ### - *Hometown Heroes*
 <script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/yn9jp" ></script>
 ### - *City Storm Shelter*
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/yn9jp" ></script>
 ### - *City Park*
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/yn9jp" ></script>
 ### - *360 Map*
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/yn9jp" ></script>
 ### - *Public Library*
-
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/yn9jp" ></script>
 
 
 **Bold** and _Italic_ and `Code` text
