@@ -7,11 +7,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### A few of Midland's EAST Projects
 
 
-### -*Hometown Heroes*
-### -*City Storm Shelter*
-### -*City Park*
-### -*360 Map*
-### -*Public Library*
+### - *Hometown Heroes*
+### - *City Storm Shelter*
+### - *City Park*
+### - *360 Map*
+### - *Public Library*
 
 
 
