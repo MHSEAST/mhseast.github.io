@@ -8,9 +8,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-### *GreenHouse
-### City Storm Shelter
-### City Park*
+### *GreenHouse*
+### *City Storm Shelter*
+### *City Park*
 
 - Bulleted
 - List
