@@ -4,19 +4,16 @@ Here we will guide you through a journey of our school's EAST projects.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### List of Midland's EAST Projects
+### A few of Midland's EAST Projects
 
 
-
-### *GreenHouse*
+### *Hometown Heroes*
 ### *City Storm Shelter*
 ### *City Park*
+### *360 Map*
+### *Public Library*
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
