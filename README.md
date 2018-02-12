@@ -1,4 +1,4 @@
-## Welcome Midland High School's EAST Conference Presentation.
+## Welcome to Midland High School's EAST Conference Presentation.
 
 Here we will guide you through a journey of our school's EAST projects.
 
