@@ -2,7 +2,8 @@
 
 Here we will guide you through a journey of our school's EAST projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![alt text](http://midland.k12.ar.us/103571_2 "Mexican Logo")
+
 ## A few of Midland's EAST Projects
 
 
