@@ -2,7 +2,7 @@
 
 Here we will guide you through a journey of our school's EAST projects.
 
-![alt text](http://midland.k12.ar.us/103571_2 "Mexican Logo")
+(http://midland.k12.ar.us/103571_2 "Midland School logo")
 
 ## A few of Midland's EAST Projects
 
