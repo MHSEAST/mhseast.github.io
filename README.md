@@ -2,7 +2,7 @@
 
 Here we will guide you through a journey of our school's EAST projects.
 
-(http://midland.k12.ar.us/103571_2 "Midland School logo")
+(https://s3.amazonaws.com/scschoolfiles/104/img_stkpic_z5tqdd_764x5000.jpg "Midland School logo")
 
 ## A few of Midland's EAST Projects
 
