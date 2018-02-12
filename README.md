@@ -9,7 +9,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 ### - *Hometown Heroes*
-<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/yn9jp" ></script>
+
+
 ### - *City Storm Shelter*
 <script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/yn9jp" ></script>
 ### - *City Park*
