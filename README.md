@@ -1,11 +1,9 @@
-## Welcome to Midland High School's EAST Conference Presentation.
+## Welcome to Midland High School's EAST Conference Presentation.![alt text](https://s3.amazonaws.com/scschoolfiles/104/img_stkpic_z5tqdd_764x5000.jpg "Midland School logo")
 
 Here we will guide you through a journey of our school's EAST projects.
 
-![alt text](https://s3.amazonaws.com/scschoolfiles/104/img_stkpic_z5tqdd_764x5000.jpg "Midland School logo")
 
 ## A few of Midland's EAST Projects
-
 
 
 ### - *Hometown Heroes*
