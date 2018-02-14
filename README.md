@@ -1,10 +1,9 @@
-![alt text](https://s3.amazonaws.com/scschoolfiles/104/img_stkpic_z5tqdd_764x5000.jpg "Midland School logo")
-## Welcome to Midland High School's EAST Conference Presentation.
 
-Here we will guide you through a journey of our school's EAST projects.
+# **Welcome to Midland High School's EAST Conference Presentation.**
 
 
-## A few of Midland's EAST Projects
+
+## Midland's EAST Projects
 
 
 ### - *Hometown Heroes*
@@ -25,3 +24,5 @@ Description: Midland EAST was contacted by the Old Independence Regional Museum 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+![alt text](https://s3.amazonaws.com/scschoolfiles/104/img_stkpic_z5tqdd_764x5000.jpg "Midland School logo")
