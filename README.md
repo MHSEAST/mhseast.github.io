@@ -6,19 +6,19 @@
 ## Midland's EAST Projects:
 
 
-### - *Hometown Heroes*: Project members- Katelyn Bonee and Brittany Smith.
+### - *Hometown Heroes*: Project member(s)- Katelyn Bonee and Brittany Smith.
 Description: Midland EAST was contacted by the Old Independence Regional Museum along with Batesville High School, Southside High School, Southside Junior High, and Cedar Ridge High EAST Programs to help create a documentary. Students Brittany Smith and Katelyn Bonee jumped on board. The museum wanted a documentary about how sports have impacted communities, and these two students couldn’t wait to help. This was sponsored through the Smithsonian Museum and even has its own display at the Old Independence Regional Museum currently. Students did a lot of research to gather all of the information, pictures, and schedule the interviews. They also used Final Cut Pro to edit the video. After the documentary was completed it was shown at the Melba in Batesville, and then put on display for the public at the local museum. This was an ongoing project which took about a year and a half to complete.
 
-### - *City Storm Shelter*: Project members- Bailey Piety and Erica Janson.
+### - *City Storm Shelter*: Project member(s)- Bailey Piety and Erica Janson.
 
 
-### - *City Park*: 
+### - *City Park*: Project member(s)- 
 
 
-### - *360 Map*: Project members- Belinda Jaco.
+### - *360 Map*: Project member(s)- Belinda Jaco.
 
 
-### - *Public Library*: Project members- Bobby Montgomery and Eli Milam.
+### - *Public Library*: Project member(s)- Bobby Montgomery and Eli Milam.
 
 
 **Bold** and _Italic_ and `Code` text
