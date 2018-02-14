@@ -1,9 +1,9 @@
 
 # **Welcome to Midland High School's EAST Conference Presentation.**
 
+## During this presentation you will learn about Critical thinking skills, Teamwork, 
 
-
-## Midland's EAST Projects
+## Midland's EAST Projects:
 
 
 ### - *Hometown Heroes*
