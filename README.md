@@ -1,5 +1,5 @@
 
-#Alt-H1 **Welcome to Midland High School's EAST Conference Presentation.**
+#H1 **Welcome to Midland High School's EAST Conference Presentation.**
 
 ## During this presentation you will learn about Critical thinking skills, Teamwork, 
 
