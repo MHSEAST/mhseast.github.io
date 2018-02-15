@@ -27,10 +27,8 @@ Description:
 ### - *Midland Schools EAST Website*: Project member(s)- Rachel Puentez and Carlos Huesca.
 Description: 
 
-### - *Map of School Bus Routes*: Project member(s)- 
+### - *Map of School Bus Routes*: Project member(s)- Payton Kirk, Christian Throckmorton, Brianna Reed, and Christopher Bonee.
 Description: 
 
-
-[Link](url) and ![Image]
 
 ![alt text](https://s3.amazonaws.com/scschoolfiles/104/img_stkpic_z5tqdd_764x5000.jpg "Midland School logo")
