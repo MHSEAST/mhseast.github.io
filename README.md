@@ -22,7 +22,7 @@ Description:
 Description: The closest library to Pleasant Plains is in Pangburn, which is twenty miles away. Students Bobby Montgomery and Eli Milam decided they wanted to come up with a way to make library resources more accessible to their community. The students started designing a layout for this idea, using Google Sketchup, and are presenting it to the Mayor, Kenneth Burns. They are currently waiting to figure out the ideal location for the Community Library. Students are also looking to provide funding for this project through grant funding and other funding options. This will also provide more jobs for the community as well.
 
 ### - *Public Greenhouse*: Project member(s)- William Kelly and Mason Grammer.
-Description: 
+Description: The Greenhouse Project was originally though of because Mason and I were inspired by North Little Rock school districts that have placed greenhouse’s in their community’s, which over the course of 5 years have grown to 20 greenhouse gardens. Mason and I seen how far they had come with their projects and we decided that we too should have a greenhouse garden. We started Brainstorming over the design of what we think it should look like. After seeing how terrible our designs were, we just looked up the type of shape that it should be to maximize on efficiency.  Mason was actually given a greenhouse frame by a family member, so we then just added the greenhouse to our project. I now have the location planned for the greehouse, which is located on the High-school premises. Right now I am waiting on the board to confirm the project with the setting of the greenhouse on the school property.
 
 ### - *Midland Schools EAST Website*: Project member(s)- Rachel Puentez and Carlos Huesca.
 Description: 
