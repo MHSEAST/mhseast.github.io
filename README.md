@@ -19,7 +19,7 @@ Description: We are working on putting a local tornado shelter to help make our 
 
 
 ### - *Public Library*: Project member(s)- Bobby Montgomery and Eli Milam.
-
+Description: The closest library to Pleasant Plains is in Pangburn, which is twenty miles away. Students Bobby Montgomery and Eli Milam decided they wanted to come up with a way to make library resources more accessible to their community. The students started designing a layout for this idea, using Google Sketchup, and are presenting it to the Mayor, Kenneth Burns. They are currently waiting to figure out the ideal location for the Community Library. Students are also looking to provide funding for this project through grant funding and other funding options. This will also provide more jobs for the community as well.
 
 **Bold** and _Italic_ and `Code` text
 
