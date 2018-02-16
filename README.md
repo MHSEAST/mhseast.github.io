@@ -33,4 +33,4 @@ Description:
 
 
 ![alt text](https://s3.amazonaws.com/scschoolfiles/104/img_stkpic_z5tqdd_764x5000.jpg "Midland School logo")
-                                  This site was made and edited by Hayden Wood
+This site was made and edited by Hayden Wood
