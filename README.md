@@ -1,10 +1,10 @@
 
 ## Welcome to Midland High School's EAST Conference Presentation Website.
 
-## During this presentation you will learn about Critical thinking skills, Teamwork, and Determination. This presentation will show you that improving your community is a lot more than just thinking about ways to improve it. It takes the self-motivation of yourself to make an impact that changes your community's outward and inward apperance.
+#### During this presentation you will learn about Critical thinking skills, Teamwork, and Determination. This presentation will show you that improving your community is a lot more than just thinking about ways to improve it. It takes the self-motivation of yourself to make an impact that changes your community's outward and inward apperance.
 ## Your presenters for this week are Rachel Puentez, Arthur Boswell, Carlos Huesca, Hayden Wood, Alexis Summers, and Christian Throckmorton.
 
-## Midland's EAST Projects:
+#### Midland's EAST Projects:
 
 
 ### - *Hometown Heroes*: Project member(s)- Katelyn Bonee and Brittany Smith.
