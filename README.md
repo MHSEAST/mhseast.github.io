@@ -3,7 +3,7 @@
 
 #### During this presentation you will learn about Critical thinking skills, Teamwork, and Determination. This presentation will show you that improving your community is a lot more than just thinking about ways to improve it. It takes the self-motivation of yourself to make an impact that changes your community's outward and inward appearance. Which keeps your community at the point of ALL SYSTEMS GO!!
 #### Your attendees for this week are Rachel Puentez, Arthur Boswell, Carlos Huesca, Hayden Wood, Alexis Summers, and Bell Jaco.
-#### Your presenters for this week ar Rachel Puentez and Hayden Wood.
+#### Your presenters for this week are Rachel Puentez and Hayden Wood.
 
 ## Midland's EAST Projects:
 
