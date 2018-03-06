@@ -73,11 +73,11 @@ This site was made and edited by Hayden Wood
          <td colspan="4"><label for="delivery">Comments and Concerns: </label> <br/> <textarea name="Comments and Concerns" id="delivery"  cols="50" rows="5"></textarea></td>
      </tr>
 <tr>
-    <td colspan="4 "><input type="button" name="button" value="Send My Order"></td>
+    <td colspan="4 "><input type="button" name="button" value="Send Feedback"></td>
     
     <html lang="en"> 
     <button-link
-  link="http://link"
+  link="https://mhseast.github.io"
   target="_blank"
   text="Click Me"
   show>
