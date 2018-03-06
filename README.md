@@ -36,7 +36,7 @@ systems and we got a email from the same company who own the previous GPS's, now
 
 ![alt text](https://s3.amazonaws.com/scschoolfiles/104/img_stkpic_z5tqdd_764x5000.jpg "Midland School logo")
 This site was made and edited by Hayden Wood
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -45,7 +45,7 @@ This site was made and edited by Hayden Wood
 <body>
     <table border="1px" padding="5px">
         <tr>    
-            <th colspan="4"> Pizza Shop 2.0</th>
+            <th colspan="4"> Feedback</th>
         </tr>
         <tr>
            
