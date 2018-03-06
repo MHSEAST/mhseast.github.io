@@ -57,7 +57,7 @@ This site was made and edited by Hayden Wood
             <td><input type="radio" name="Grade Level" value="3rd-6th" id="3rd-6th"><label for="3rd-6th">3rd-6th</label><br /> 
             <td><input type="radio" name="Grade Level" value="7th - 9th" id="7th - 9th"><label for="7th - 9th">7th - 9th</label><br />
             <td><input type="radio" name="Grade Level" value="10th- 12th Grade" id="10th - 12th Grade"><label for="10th - 12th Grade">10th - 12th Grade</label><br />
-            </tr>
+        
             <tr>
                <td> <label for="Gender">Gender</label></td>
                
