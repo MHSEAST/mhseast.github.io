@@ -73,4 +73,30 @@ This site was made and edited by Hayden Wood
          <td colspan="4"><label for="delivery">Comments and Concerns: </label> <br/> <textarea name="Comments and Concerns" id="delivery"  cols="50" rows="5"></textarea></td>
      </tr>
 <tr>
-    <td colspan="4 "><input type="button" name="button" value="Send Feedback" link="hayden.wood@midlandschools.org"></td>
+    <td colspan="4 "><input type="button" name="button" value="Send Feedback" ></td>
+    
+    <html>
+
+<head>
+    <title></title>
+</head>
+
+<body>
+    <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">HTML Comment Box</a> is loading comments...</div>
+    <link rel="stylesheet" type="text/css" href="http://www.htmlcommentbox.com/static/skins/default/skin.css" />
+    
+
+    <script type="text/javascript">
+    
+    if (!window.hcb_user) {
+        hcb_user = {};
+    }(function() {
+        s = document.createElement("script");
+        s.setAttribute("type", "text/javascript");
+        s.setAttribute("src", "http://www.htmlcommentbox.com/jread?page=" + escape((window.hcb_user && hcb_user.PAGE) || ("" + window.location)).replace("+", "%2B") + "&opts=470&num=10");
+        if (typeof s != "undefined") document.getElementsByTagName("head")[0].appendChild(s);
+    })(); 
+    </script>
+</body>
+
+</html>
