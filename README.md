@@ -36,32 +36,54 @@ systems and we got a email from the same company who own the previous GPS's, now
 
 ![alt text](https://s3.amazonaws.com/scschoolfiles/104/img_stkpic_z5tqdd_764x5000.jpg "Midland School logo")
 This site was made and edited by Hayden Wood
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="author" content="Javier Ponferrada López">
+  <link rel="stylesheet" href="css/style.css">
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+  <link rel="shortcut icon" href="img/favicon.png">
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js" charset="utf-8"></script>
+  <script src="js/script.js" charset="utf-8"></script>
+  <title>drop_down</title>
+</head>
+<body>
+  <div class="content">
+    <div class="module desactivated" id="m1">
+      <div class="head_module">
+        <p class="title_head_module">Title</p>
+        <img onclick="push_desplegable('m1');" class="icon_arrow_down" src="img/arrow_down.png" alt="">
+      </div>
+      <div class="text_module">
+          <p> Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezclóLorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló </p>
+      </div>
 
-<LinearLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:orientation="vertical">
+    </div>
 
+    <div class="module desactivated" id="m2">
+      <div class="head_module">
+        <p class="title_head_module">Title</p>
+        <img onclick="push_desplegable('m2');" class="icon_arrow_down" src="img/arrow_down.png" alt="">
+      </div>
+      <div class="text_module">
+          <p> Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezclóLorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló </p>
+      </div>
 
-    <hakobastvatsatryan.DropdownTextView
-        android:id="@+id/first_dropdown_text_view"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        app:title_font="@font/your-title-font"
-        app:title_text="@string/your-title-text"
-        app:title_text_color="@color/your-title-text-color"
-        app:title_text_size="@dimen/your-title-text-size"
-        app:content_font="@font/your-font"
-        app:content_padding="@dimen/your-content-padding"
-        app:content_text="@string/your-content-text"
-        app:content_text_color="@color/your-content-text-color"
-        app:content_text_size="@color/your-content-text-size"
-        app:arrow_drawable="@drawable/your-arrow-icon" comment="icon should be faced to the right"
-        app:bg_drawable_regular="@drawable/your-regular-background"
-        app:bg_drawable_expanded="@drawable/your-expanded-background"
-        app:expand_duration="@integer/your-expand-duration"
-        app:panel_padding="@dimen/your-panel-padding"/>
+    </div>
 
-</LinearLayout>
+    <div class="module desactivated" id="m3">
+      <div class="head_module">
+        <p class="title_head_module">Title</p>
+        <img onclick="push_desplegable('m3');" class="icon_arrow_down" src="img/arrow_down.png" alt="">
+      </div>
+      <div class="text_module">
+          <p> Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezclóLorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló </p>
+      </div>
+
+    </div>
+  </div>
+</body>
+</html>
