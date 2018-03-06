@@ -78,7 +78,7 @@ This site was made and edited by Hayden Wood
     <html lang="en"> 
     <button-link
   link="https://mhseast.github.io"
-  target="_blank"
+  target="_Send Feedback"
   text="Click Me"
   show>
 </button-link>
