@@ -53,13 +53,13 @@ This site was made and edited by Hayden Wood
             <td colspan="3"><input id="name" type="text" value=""></td>
         </tr>
         <tr>
-            <td><label for="topping"> Pizza Topping</td>
-            <td><input type="radio" name="topping" value="Supreme" id="supreme"><label for="supreme">Supreme</label><br /> 
-            <input type="radio" name="topping" value="Vegetarian" id="vegetarian"><label for="vegetarian">Vegetarian</label><br />
-            <input type="radio" name="topping" value="Hawaiian" id="hawaiian"><label for="hawaiian">Hawaiian</label></td>
+            <td><label for="Grade Level"> Grade Level<
+            <td><input type="radio" name="Grade Level" value="3rd-6th" id="3rd-6th"><label for="3rd-6th">3rd-6th</label><br /> 
+            <input type="radio" name="Grade Level" value="7th - 9th" id="7th - 9th"><label for="7th - 9th">7th - 9th</label><br />
+            <input type="radio" name="Grade level" value="10th Grade - 12th Grade" id="10th Grade - 12th Grade10th Grade - 12th Grade><label for="10th Grade - 12th Grade">10th Grade - 12th Grade</label></td>
             </tr>
             <tr>
-               <td> <label for="sauce">Gender</label></td>
+               <td> <label for="Gender">Gender</label></td>
                
                 <td>
                     <select name="Gender" id="sauce">
