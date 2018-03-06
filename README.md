@@ -37,53 +37,60 @@ systems and we got a email from the same company who own the previous GPS's, now
 ![alt text](https://s3.amazonaws.com/scschoolfiles/104/img_stkpic_z5tqdd_764x5000.jpg "Midland School logo")
 This site was made and edited by Hayden Wood
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <meta name="author" content="Javier Ponferrada López">
-  <link rel="stylesheet" href="css/style.css">
-  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-  <link rel="shortcut icon" href="img/favicon.png">
-  <script src="https://code.jquery.com/jquery-3.2.1.min.js" charset="utf-8"></script>
-  <script src="js/script.js" charset="utf-8"></script>
-  <title>drop_down</title>
+    <meta charset="UTF-8">
+    <title>Document</title>
 </head>
 <body>
-  <div class="content">
-    <div class="module desactivated" id="m1">
-      <div class="head_module">
-        <p class="title_head_module">Title</p>
-        <img onclick="push_desplegable('m1');" class="icon_arrow_down" src="img/arrow_down.png" alt="">
-      </div>
-      <div class="text_module">
-          <p> Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezclóLorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló </p>
-      </div>
+    <table border="1px" padding="5px">
+        <tr>    
+            <th colspan="4"> Pizza Shop 2.0</th>
+        </tr>
+        <tr>
+           
+            <td> <label for="name">Name</label> </td>
+            <td colspan="3"><input id="name" type="text" value=""></td>
+        </tr>
+        <tr>
+            <td><label for="topping"> Pizza Topping</td>
+            <td><input type="radio" name="topping" value="Supreme" id="supreme"><label for="supreme">Supreme</label><br /> 
+            <input type="radio" name="topping" value="Vegetarian" id="vegetarian"><label for="vegetarian">Vegetarian</label><br />
+            <input type="radio" name="topping" value="Hawaiian" id="hawaiian"><label for="hawaiian">Hawaiian</label></td>
+            </tr>
+            <tr>
+               <td> <label for="sauce">Pizza Sauce</label></td>
+               
+                <td>
+                    <select name="Pizza Sauce" id="sauce">
+                    <option value="Tomato" id="tomato"><label for="tomato">Tomato</label></option>
+                   <option value="Chilli Sauce" id="chilli"><label for="chilli sauce">Chilli Sauce</label></option>
+                   <option value="Garlic Sauce" id="garlic"><label for="garlic sauce">Garlic Sauce</label></option>
 
-    </div>
-
-    <div class="module desactivated" id="m2">
-      <div class="head_module">
-        <p class="title_head_module">Title</p>
-        <img onclick="push_desplegable('m2');" class="icon_arrow_down" src="img/arrow_down.png" alt="">
-      </div>
-      <div class="text_module">
-          <p> Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezclóLorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló </p>
-      </div>
-
-    </div>
-
-    <div class="module desactivated" id="m3">
-      <div class="head_module">
-        <p class="title_head_module">Title</p>
-        <img onclick="push_desplegable('m3');" class="icon_arrow_down" src="img/arrow_down.png" alt="">
-      </div>
-      <div class="text_module">
-          <p> Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezclóLorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló </p>
-      </div>
-
-    </div>
-  </div>
+                    </select> </td>
+                   </tr>
+    <tr>
+    <td>Option Extra</td>
+    <td><input type="checkbox" name="optional" value="Extra Cheese" rowspan="2" id="extra cheese"><label for="extra cheese">Extra Cheese</label>
+    <input type="checkbox" name="optional" value="Gluten Free Base" rowspan="2" id="gluten free base"><label for="gluten free base">Gluten Free Base</label></td>
+     </tr>
+     <tr>
+         <td colspan="4"><label for="delivery">Delivery Instruction: </label> <br/> <textarea name="Delivery Instruction" id="delivery"  cols="50" rows="5"></textarea></td>
+     </tr>
+<tr>
+    <td colspan="4 "><input type="button" name="button" value="Send My Order"></td>
+</tr>
+    </table>
 </body>
 </html>
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+API
+Training
+Shop
+Blog
