@@ -74,7 +74,8 @@ This site was made and edited by Hayden Wood
      </tr>
      <tr>
 	
-	<html lang="en">
+	
+<html lang="en">
 	<head>
 	<meta charset="UTF-8">
 	<title>A Comment Box</title>
