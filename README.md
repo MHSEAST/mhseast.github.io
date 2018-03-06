@@ -62,10 +62,9 @@ This site was made and edited by Hayden Wood
                <td> <label for="sauce">Pizza Sauce</label></td>
                
                 <td>
-                    <select name="Pizza Sauce" id="sauce">
-                    <option value="Tomato" id="tomato"><label for="tomato">Tomato</label></option>
-                   <option value="Chilli Sauce" id="chilli"><label for="chilli sauce">Chilli Sauce</label></option>
-                   <option value="Garlic Sauce" id="garlic"><label for="garlic sauce">Garlic Sauce</label></option>
+                    <select name="Gender" id="sauce">
+                   <option value="Male" id="Male"><label for="Male">Male</label></option>
+                   <option value="Female" id="Female"><label for="Female">Female</label></option>
 
                     </select> </td>
                    </tr>
@@ -75,18 +74,3 @@ This site was made and edited by Hayden Wood
      </tr>
 <tr>
     <td colspan="4 "><input type="button" name="button" value="Send My Order"></td>
-</tr>
-    </table>
-</body>
-</html>
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
