@@ -72,11 +72,26 @@ This site was made and edited by Hayden Wood
      <tr>
          <td colspan="4"><label for="delivery">Comments and Concerns: </label> <br/> <textarea name="Comments and Concerns" id="delivery"  cols="50" rows="5"></textarea></td>
      </tr>
-<tr>
-    <td colspan="4 "><input type="button" name="button" value="Send Feedback" ></td>
-    
-  <!-- begin https://htmlcommentbox.com -->
- <div id="HCB_comment_box"><a href="https://www.htmlcommentbox.com">Comment Box</a> is loading comments...</div>
- <link rel="stylesheet" type="text/css" href="//https://htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
- <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="//https://htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&mod=%241%24wq1rdBcg%24DuQ0821veqniBa90w4Kzz."+"&opts=16862&num=10&ts=1520363514921");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
-<!-- end https://htmlcommentbox.com -->
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>A Comment Box</title>
+<link rel="stylesheet" href="src/css/bootstrap.min.css">
+<style>
+	#panel-body{
+		margin:50px;
+	}
+</style>
+</head>
+<body>
+<div id="panel-body"></div>
+<script type="text/javascript" src="js/common.js"></script>
+<script type="text/javascript" src="js/index.bundle.js"></script>
+<script type="text/javascript" src="src/js/jquery.min.js"></script>
+<script type="text/javascript" src="src/js/bootstrap.min.js"></script>
+<script>
+	main();
+</script>
+</body>
+</html>
