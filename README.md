@@ -74,3 +74,10 @@ This site was made and edited by Hayden Wood
      </tr>
 <tr>
     <td colspan="4 "><input type="button" name="button" value="Send My Order"></td>
+    
+    <button-link
+  link="http://link"
+  target="_blank"
+  text="Click Me"
+  show>
+</button-link>
