@@ -36,3 +36,32 @@ systems and we got a email from the same company who own the previous GPS's, now
 
 ![alt text](https://s3.amazonaws.com/scschoolfiles/104/img_stkpic_z5tqdd_764x5000.jpg "Midland School logo")
 This site was made and edited by Hayden Wood
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <hakobastvatsatryan.DropdownTextView
+        android:id="@+id/first_dropdown_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:title_font="@font/your-title-font"
+        app:title_text="@string/your-title-text"
+        app:title_text_color="@color/your-title-text-color"
+        app:title_text_size="@dimen/your-title-text-size"
+        app:content_font="@font/your-font"
+        app:content_padding="@dimen/your-content-padding"
+        app:content_text="@string/your-content-text"
+        app:content_text_color="@color/your-content-text-color"
+        app:content_text_size="@color/your-content-text-size"
+        app:arrow_drawable="@drawable/your-arrow-icon" comment="icon should be faced to the right"
+        app:bg_drawable_regular="@drawable/your-regular-background"
+        app:bg_drawable_expanded="@drawable/your-expanded-background"
+        app:expand_duration="@integer/your-expand-duration"
+        app:panel_padding="@dimen/your-panel-padding"/>
+
+</LinearLayout>
