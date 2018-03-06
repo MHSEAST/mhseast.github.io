@@ -59,7 +59,7 @@ This site was made and edited by Hayden Wood
             <input type="radio" name="topping" value="Hawaiian" id="hawaiian"><label for="hawaiian">Hawaiian</label></td>
             </tr>
             <tr>
-               <td> <label for="sauce">Pizza Sauce</label></td>
+               <td> <label for="sauce">Gender</label></td>
                
                 <td>
                     <select name="Gender" id="sauce">
