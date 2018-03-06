@@ -70,12 +70,8 @@ This site was made and edited by Hayden Wood
                     </select> </td>
                    </tr>
     <tr>
-    <td>Option Extra</td>
-    <td><input type="checkbox" name="optional" value="Extra Cheese" rowspan="2" id="extra cheese"><label for="extra cheese">Extra Cheese</label>
-    <input type="checkbox" name="optional" value="Gluten Free Base" rowspan="2" id="gluten free base"><label for="gluten free base">Gluten Free Base</label></td>
-     </tr>
      <tr>
-         <td colspan="4"><label for="delivery">Delivery Instruction: </label> <br/> <textarea name="Delivery Instruction" id="delivery"  cols="50" rows="5"></textarea></td>
+         <td colspan="4"><label for="delivery">Comments and Concerns: </label> <br/> <textarea name="Comments and Concerns" id="delivery"  cols="50" rows="5"></textarea></td>
      </tr>
 <tr>
     <td colspan="4 "><input type="button" name="button" value="Send My Order"></td>
@@ -94,36 +90,3 @@ API
 Training
 Shop
 Blog
-
-<!DOCTYPE html>
-<html>
-<head>
-	<link rel="stylesheet" href="./bower_components/font-awesome/css/font-awesome.min.css"/>
-	<link rel="stylesheet" href="./index.css"/>
-	<script src="./bower_components/angular/angular.min.js"></script>
-	<script src="./bower_components/angular-animate/angular-animate.min.js"></script>
-</head>
-<body data-ng-app="my-button">
-
-	<!-- Font size selection button html markup -->
-	<div class="dropdown-container" data-ng-click="dropdownVisible=!dropdownVisible">
-		<button class="dropdown-button"><i class="fa fa-font "></i><i class="fa fa-arrows-v"></i></button>
-		<ul class="dropdown" data-ng-show="dropdownVisible">
-			<li data-ng-click="fontSize='normal'"><i class="fa fa-font fa-fw"></i></li>
-			<li data-ng-click="fontSize='lg'"><i class="fa fa-font fa-fw fa-lg fa-font"></i></li>
-			<li data-ng-click="fontSize='2x'"><i class="fa fa-font fa-fw fa-2x fa-font"></i></li>
-		</ul>
-	</div>
-	<!-- END -->
-	<br /><br /><br /><br /><br />
-	
-	<!--Sample text area with changing font size class-->
-	<div class="foo" data-ng-class="{'font-normal':fontSize=='normal', 'font-lg':fontSize=='lg', 'font-2x':fontSize=='2x'}">
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vehicula quis erat ac facilisis. Aliquam erat volutpat. Aliquam accumsan tortor quis convallis eleifend. In dapibus in lacus quis rutrum. Cras vestibulum lacinia urna ac auctor. Duis aliquet nunc vitae tellus ullamcorper, ut interdum elit fringilla. Aenean bibendum justo eu dui scelerisque scelerisque. Aliquam non risus mattis, suscipit erat faucibus, eleifend massa. Nulla a ipsum placerat, volutpat sapien vitae, bibendum sapien. Proin pretium mi a nibh iaculis, vel pulvinar orci pharetra. Donec aliquam faucibus rutrum. Nulla dictum egestas aliquam.</p>
-	</div>
-	<!--END-->
-
-	<script type="text/javascript" src="./index.js" ></script>
-	
-</body>
-</html>
