@@ -72,28 +72,4 @@ This site was made and edited by Hayden Wood
      <tr>
          <td colspan="4"><label for="delivery">Comments and Concerns: </label> <br/> <textarea name="Comments and Concerns" id="delivery"  cols="50" rows="5"></textarea></td>
      </tr>
-     <tr>
-	
-	
-<html lang="en">
-	<head>
-	<meta charset="UTF-8">
-	<title>A Comment Box</title>
-	<link rel="stylesheet" href="src/css/bootstrap.min.css">
-	<style>
-	#panel-body{
-		margin:50px;
-	}
-	</style>
-	</head>
-	<body>
-	<div id="panel-body"></div>
-	<script type="text/javascript" src="js/common.js"></script>
-	<script type="text/javascript" src="js/index.bundle.js"></script>
-	<script type="text/javascript" src="src/js/jquery.min.js"></script>
-	<script type="text/javascript" src="src/js/bootstrap.min.js"></script>
-	<script>
-	main();
-	</script>
-	</body>
-	</html>
+     <td>
