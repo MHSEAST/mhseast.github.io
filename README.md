@@ -75,28 +75,8 @@ This site was made and edited by Hayden Wood
 <tr>
     <td colspan="4 "><input type="button" name="button" value="Send Feedback" ></td>
     
-    <html>
-
-<head>
-    <title></title>
-</head>
-
-<body>
-    <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">HTML Comment Box</a> is loading comments...</div>
-    <link rel="stylesheet" type="text/css" href="http://www.htmlcommentbox.com/static/skins/default/skin.css" />
-    
-
-    <script type="text/javascript">
-    
-    if (!window.hcb_user) {
-        hcb_user = {};
-    }(function() {
-        s = document.createElement("script");
-        s.setAttribute("type", "text/javascript");
-        s.setAttribute("src", "http://www.htmlcommentbox.com/jread?page=" + escape((window.hcb_user && hcb_user.PAGE) || ("" + window.location)).replace("+", "%2B") + "&opts=470&num=10");
-        if (typeof s != "undefined") document.getElementsByTagName("head")[0].appendChild(s);
-    })(); 
-    </script>
-</body>
-
-</html>
+  <!-- begin wwww.htmlcommentbox.com -->
+ <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">Comment Box</a> is loading comments...</div>
+ <link rel="stylesheet" type="text/css" href="//www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
+ <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="//www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&mod=%241%24wq1rdBcg%24DuQ0821veqniBa90w4Kzz."+"&opts=16862&num=10&ts=1520363514921");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
+<!-- end www.htmlcommentbox.com -->
