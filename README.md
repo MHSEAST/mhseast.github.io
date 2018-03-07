@@ -79,6 +79,15 @@ This site was made and edited by Hayden Wood
         <option value="Sem1_2016-17">Sem 1, 2016/17</option>
         <option value="Sem2_2017">Sem 2, 2017</option>
         <option value="Sem1_2017-18">Sem 1, 2017/18</option>
+        <option value="Sem1_2017-18">Sem 1, 2017/18</option>
+        <option value="Sem1_2017-18">Sem 1, 2017/18</option>
+        <option value="Sem1_2017-18">Sem 1, 2017/18</option>
+        <option value="Sem1_2017-18">Sem 1, 2017/18</option>
+        <option value="Sem1_2017-18">Sem 1, 2017/18</option>
+        <option value="Sem1_2017-18">Sem 1, 2017/18</option>
+        <option value="Sem1_2017-18">Sem 1, 2017/18</option>
+        <option value="Sem1_2017-18">Sem 1, 2017/18</option>
+        <option value="Sem1_2017-18">Sem 1, 2017/18</option>
      </select>
     </div>
     
@@ -93,7 +102,7 @@ This site was made and edited by Hayden Wood
     
     <div class="form-group">
       <label for="text">Comment and Concerns: </label>
-      <textarea placeholder="Your specific feedback here." class="form-control" id="text" name="text" rows="10" style="min-width: 100%"></textarea>
+      <textarea placeholder="Your specific feedback here." class="form-control" id="text" name="text" rows="10" style="min-width: 10%"></textarea>
     </div>
     
     <div class="form-group">
@@ -112,56 +121,3 @@ This site was made and edited by Hayden Wood
 
 </body>
 </html>
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>Feedback Box</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-</head>  
-<body>
-
-<style>
-  .container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-</style>  
-
-  
-  
-<div class="container">
-  <img src="FeedbackBox.svg" alt="feedback box" width="300">
-    
-  
-  <div class="btn-group-vertical">
-    <a href="form.html" class="btn btn-primary" >Give Feedback</a>
-    <a href="php/feedbackDisplay.php" class="btn btn-success" >View Feedback</a>
-    <a href="php/feedbackDisplaySpecific.php" class="btn btn-info">View Specific Feedback</a>
-  </div>
-    
-</div>
-
-</body>
-</html>
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>Feedback Box --- Thank you for your Feedback!</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-</head>
-<body>
-
-<div class="jumbotron text-center">
-  <a href="php/feedbackDisplay.php"><img src="FeedbackBox.svg" class="img-fluid" alt="Feedback Box" width="250"></a>
-</div> 
