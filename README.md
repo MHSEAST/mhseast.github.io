@@ -60,14 +60,6 @@ This site was made and edited by Hayden Wood
      </select>
     </div>
     
-    <div class="form-group">
-      <label for="semester">Semester: </label>
-      <select class="custom-select" id="semester" name="semester">
-        <option value="Sem1_2016-17">Sem 1, 2016/17</option>
-        <option value="Sem2_2017">Sem 2, 2017</option>
-     </select>
-    </div>
-    
        <div class="form-group">
       <label for="Gender">Gender: </label>
       <select class="custom-select" id="Gender" name="Gender">
