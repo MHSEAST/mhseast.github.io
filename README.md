@@ -73,7 +73,7 @@ This site was made and edited by Hayden Wood
          <td colspan="4"><label for="delivery">Comments and Concerns: </label> <br/> <textarea name="Comments and Concerns" id="delivery"  cols="50" rows="5"></textarea></td>
      </tr>
      
-    <html lang="en">
+  <html lang="en">
   <head>
   <meta charset="utf-8">
   <title>FeedbackBox</title>
