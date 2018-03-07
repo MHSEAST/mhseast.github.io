@@ -37,9 +37,6 @@ systems and we got a email from the same company who own the previous GPS's, now
 ![alt text](https://s3.amazonaws.com/scschoolfiles/104/img_stkpic_z5tqdd_764x5000.jpg "Midland School logo")
 This site was made and edited by Hayden Wood
 
-            
-       Feedback
-
 <div class="jumbotron text-center">
   <a href="php/feedbackDisplay.php"><img src="FeedbackBox.svg" class="img-fluid" alt="Feedback Box" width="250"></a>
 </div>
