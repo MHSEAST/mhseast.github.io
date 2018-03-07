@@ -83,14 +83,14 @@ This site was made and edited by Hayden Wood
     </div>
     
     <div class="form-group">
-      <label class="radio-inline"><input type="radio" name="rating" value="1">:((</label>
-      <label class="radio-inline"><input type="radio" name="rating" value="2">:(</label>
-      <label class="radio-inline"><input type="radio" name="rating" value="3">:|</label> 
-      <label class="radio-inline"><input type="radio" name="rating" value="4">:)</label>
-      <label class="radio-inline"><input type="radio" name="rating" value="5">:))</label> 
+      <label class="radio-inline"><input type="radio" name="rating" value="1">Excellent</label>
+      <label class="radio-inline"><input type="radio" name="rating" value="2">Great</label>
+      <label class="radio-inline"><input type="radio" name="rating" value="3">OK</label> 
+      <label class="radio-inline"><input type="radio" name="rating" value="4">Bad</label>
+      <label class="radio-inline"><input type="radio" name="rating" value="5">Very Bad</label> 
     </div>
     
-    <input id="submit" name="submit" type="submit" value="Drop into Box" class="btn btn-primary">
+    <input id="submit" name="submit" type="submit" value="Send My Feedback" class="btn btn-primary">
     
   </form>  
   
