@@ -150,15 +150,4 @@ This site was made and edited by Hayden Wood
 
 <div class="jumbotron text-center">
   <a href="php/feedbackDisplay.php"><img src="FeedbackBox.svg" class="img-fluid" alt="Feedback Box" width="250"></a>
-</div>
-  
-<div class="container">
-  
-  <center>
-    <h1>Thank you!</h1> 
-  </center>
-    
-</div>
-
-</body>
-</html>
+</div> 
