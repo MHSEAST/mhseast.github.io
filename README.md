@@ -94,6 +94,3 @@ This site was made and edited by Hayden Wood
   </form>  
   
 </div>
-
-</body>
-</html>
