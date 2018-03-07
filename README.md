@@ -33,6 +33,5 @@ Description: My partner and I are currently working on an EAST website for our s
 Description: When we were done with our part on our last project, we were going to ask the school for a new project but the superintendent had already told us about a project we can do when we were done. Therefore, we went to ask him about this project. He said it was bus routing project. This is so we can identify other roads for usage of our school buses. We started with the GPS equipment the school provided us with, however, the devices were out of date. Thus, we started the search for a new GPS coordinating 
 systems and we got a email from the same company who own the previous GPS's, now we can use this email to get more and improved GPS's.
 
-
 ![alt text](https://s3.amazonaws.com/scschoolfiles/104/img_stkpic_z5tqdd_764x5000.jpg "Midland School logo")
 This site was made and edited by Hayden Wood
