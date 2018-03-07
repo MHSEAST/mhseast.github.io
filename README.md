@@ -62,9 +62,9 @@ This site was made and edited by Hayden Wood
     <div class="form-group">
       <label for="Grade Level">Grade Level: </label>
       <select class="custom-select" id="Grade Level" name="Grade Level">
-        <option value="WAD">Web Application Development</option>
-        <option value="AI">Introduction to Artificial Intelligence</option>
-        <option value="BDA">Business Data Analytics</option>
+        <option value="Elementary">3rd - 6th</option>
+        <option value="Middle School">7th- 9th</option>
+        <option value="High School">10th - 12th</option>
      </select>
     </div>
     
