@@ -38,7 +38,7 @@ systems and we got a email from the same company who own the previous GPS's, now
 This site was made and edited by Hayden Wood
 
             
-       <!DOCTYPE html>
+       Feedback
 <html lang="en">
 <head>
   <title>Feedback Box</title>
@@ -61,7 +61,7 @@ This site was made and edited by Hayden Wood
     
     <div class="form-group">
       <label for="text">Name: </label>
-      <textarea placeholder="Your name here." class="form-control" id="text" name="text" rows="2" style="min-width: 100%"></textarea>
+      <textarea placeholder="Your name here." class="form-control" id="text" name="text" rows="2" style="min-width: 20%"></textarea>
     </div>
     
     <div class="form-group">
@@ -102,7 +102,7 @@ This site was made and edited by Hayden Wood
     
     <div class="form-group">
       <label for="text">Comment and Concerns: </label>
-      <textarea placeholder="Your specific feedback here." class="form-control" id="text" name="text" rows="10" style="min-width: 10%"></textarea>
+      <textarea placeholder="Your specific feedback here." class="form-control" id="text" name="text" rows="10" style="min-width: 100%"></textarea>
     </div>
     
     <div class="form-group">
