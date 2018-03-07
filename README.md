@@ -62,6 +62,61 @@ body {
   justify-content: center;
 }
 
+var mainText = document.getElementById("mainText")
+var submitBtn = document.getElementById("submitBtn");
+
+function submitClick(){
+    var firebaseRef = firebase.database().ref();
+    var message = mainText.value;
+    firebaseRef.push().set(message);
+}
+
+<html lang="en">
+<head>
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="css/styles.css">
+  <!-- jQuery library -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <!-- Latest compiled JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <meta charset="utf-8">
+  <title>Suggestion Box</title>
+  <link rel="shortcut icon" href="https://blog.isao.co.jp/assets/sample_favicon.png">
+</head>
+
+<!--heading-->
+<body>
+  <div class = "vertical-text">
+    <h1>Suggestion Box</h1>
+    <h3>Leave a suggestion on how we can improve our club</h3>
+    <!--comment element-->
+    <div class = "center-max">
+      <textarea class="form-control" rows="5" id="comment"></textarea>
+      <div class = "btn">
+        <a href="about" class="btn btn-dark btn-lg">Submit</a>
+      </div>
+    </div>
+  </div>
+
+  </header>
+  <script src="js/scripts.js"></script>
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div class="jumbotron text-center">
   <a href="php/feedbackDisplay.php"><img src="FeedbackBox.svg" class="img-fluid" alt="Feedback Box" width="250"></a>
 </div>
