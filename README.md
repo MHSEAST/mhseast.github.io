@@ -63,12 +63,21 @@ This site was made and edited by Hayden Wood
       <label for="Grade Level">Grade Level: </label>
       <select class="custom-select" id="Grade Level" name="Grade Level">
         <option value="Elementary">3rd - 6th</option>
-        <option value="Middle School">7th- 9th</option>
+        <option value="Middle School">7th - 9th</option>
         <option value="High School">10th - 12th</option>
      </select>
     </div>
     
     <div class="form-group">
+      <label for="semester">Semester: </label>
+      <select class="custom-select" id="semester" name="semester">
+        <option value="Sem1_2016-17">Sem 1, 2016/17</option>
+        <option value="Sem2_2017">Sem 2, 2017</option>
+        <option value="Sem1_2017-18">Sem 1, 2017/18</option>
+     </select>
+    </div>
+    
+       <div class="form-group">
       <label for="semester">Semester: </label>
       <select class="custom-select" id="semester" name="semester">
         <option value="Sem1_2016-17">Sem 1, 2016/17</option>
