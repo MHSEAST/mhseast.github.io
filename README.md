@@ -61,7 +61,7 @@ This site was made and edited by Hayden Wood
     
     <div class="form-group">
       <label for="text">Name: </label>
-      <textarea placeholder="Your name here." class="form-control" id="text" name="text" rows="2" style="min-width: 20%"></textarea>
+      <textarea placeholder="Your name here." class="form-control" id="text" name="text" rows="1" style="min-width: 10%"></textarea>
     </div>
     
     <div class="form-group">
@@ -92,11 +92,10 @@ This site was made and edited by Hayden Wood
     </div>
     
        <div class="form-group">
-      <label for="semester">Semester: </label>
-      <select class="custom-select" id="semester" name="semester">
-        <option value="Sem1_2016-17">Sem 1, 2016/17</option>
-        <option value="Sem2_2017">Sem 2, 2017</option>
-        <option value="Sem1_2017-18">Sem 1, 2017/18</option>
+      <label for="Gender">Gender: </label>
+      <select class="custom-select" id="Gender" name="Gender">
+        <option value="Male">Male</option>
+        <option value="Female">Female</option>
      </select>
     </div>
     
