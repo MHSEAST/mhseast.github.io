@@ -72,3 +72,17 @@ This site was made and edited by Hayden Wood
      <tr>
          <td colspan="4"><label for="delivery">Comments and Concerns: </label> <br/> <textarea name="Comments and Concerns" id="delivery"  cols="50" rows="5"></textarea></td>
      </tr>
+     
+    <html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <title>FeedbackBox</title>
+  <base href="/">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+</head>
+<body>	
+  <app-root></app-root>
+</body>
+</html>
