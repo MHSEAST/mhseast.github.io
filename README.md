@@ -86,3 +86,36 @@ This site was made and edited by Hayden Wood
   </form>  
   
 </div>
+
+<html lang="en">
+<head>
+  <title>Feedback Box</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+</head>  
+<body>
+
+<style>
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+</style>  
+
+  
+  
+<div class="container">
+  <img src="FeedbackBox.svg" alt="feedback box" width="300">
+    
+  
+  <div class="btn-group-vertical">
+    <a href="form.html" class="btn btn-primary" >Give Feedback</a>
+    <a href="php/feedbackDisplay.php" class="btn btn-success" >View Feedback</a>
+    <a href="php/feedbackDisplaySpecific.php" class="btn btn-info">View Specific Feedback</a>
+  </div>
+    
+</div>
