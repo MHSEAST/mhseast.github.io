@@ -39,16 +39,6 @@ This site was made and edited by Hayden Wood
 
             
        Feedback
-<html lang="en">
-<head>
-  <title>Feedback Box</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-</head>  
-<body>
 
 <div class="jumbotron text-center">
   <a href="php/feedbackDisplay.php"><img src="FeedbackBox.svg" class="img-fluid" alt="Feedback Box" width="250"></a>
@@ -78,16 +68,6 @@ This site was made and edited by Hayden Wood
       <select class="custom-select" id="semester" name="semester">
         <option value="Sem1_2016-17">Sem 1, 2016/17</option>
         <option value="Sem2_2017">Sem 2, 2017</option>
-        <option value="Sem1_2017-18">Sem 1, 2017/18</option>
-        <option value="Sem1_2017-18">Sem 1, 2017/18</option>
-        <option value="Sem1_2017-18">Sem 1, 2017/18</option>
-        <option value="Sem1_2017-18">Sem 1, 2017/18</option>
-        <option value="Sem1_2017-18">Sem 1, 2017/18</option>
-        <option value="Sem1_2017-18">Sem 1, 2017/18</option>
-        <option value="Sem1_2017-18">Sem 1, 2017/18</option>
-        <option value="Sem1_2017-18">Sem 1, 2017/18</option>
-        <option value="Sem1_2017-18">Sem 1, 2017/18</option>
-        <option value="Sem1_2017-18">Sem 1, 2017/18</option>
      </select>
     </div>
     
