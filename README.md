@@ -60,6 +60,11 @@ This site was made and edited by Hayden Wood
   <form method="post" action="php/feedbackProcessor.php">
     
     <div class="form-group">
+      <label for="text">Name: </label>
+      <textarea placeholder="Your name here." class="form-control" id="text" name="text" rows="2" style="min-width: 100%"></textarea>
+    </div>
+    
+    <div class="form-group">
       <label for="Grade Level">Grade Level: </label>
       <select class="custom-select" id="Grade Level" name="Grade Level">
         <option value="Elementary">3rd - 6th</option>
@@ -87,8 +92,8 @@ This site was made and edited by Hayden Wood
     </div>
     
     <div class="form-group">
-      <label for="text">Feedback: </label>
-      <textarea placeholder="Your specific feedback here." class="form-control" id="text" name="text" rows="3" style="min-width: 100%"></textarea>
+      <label for="text">Comment and Concerns: </label>
+      <textarea placeholder="Your specific feedback here." class="form-control" id="text" name="text" rows="10" style="min-width: 100%"></textarea>
     </div>
     
     <div class="form-group">
@@ -99,7 +104,7 @@ This site was made and edited by Hayden Wood
       <label class="radio-inline"><input type="radio" name="rating" value="5">Very Bad</label> 
     </div>
     
-    <input id="submit" name="submit" type="submit" value="Send My Feedback" class="btn btn-primary">
+    <input id="submit" name="submit" type="submit" value="Submit My Feedback" class="btn btn-primary">
     
   </form>  
   
